@@ -22,20 +22,6 @@
     "estadoTramite": "en espera de pago"
   },
   {
-    "id": "ASK4P3GH",
-    "date": "2024-08-22T14:30:00",
-    "tipoSolicitud": "Acta de Matrimonio",
-    "nombre": [
-      "MARTIN ALEJANDRO PARISI",
-      "JULIA ANDREA GOMEZ"
-    ],
-    "dni": [
-      "21341241",
-      "31415926"
-    ],
-    "estadoTramite": "terminado"
-  },
-  {
     "id": "A2KDPFGH",
     "date": "2024-08-21T09:15:00",
     "tipoSolicitud": "Acta de Nacimiento",
